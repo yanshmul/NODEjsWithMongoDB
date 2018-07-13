@@ -1,0 +1,474 @@
+2018-07-12T13:17:17.594Z - info: [0mGET / [32m200 [0m29.262 ms - -[0m
+
+2018-07-12T13:17:17.616Z - info: [0mGET /lib/bootstrap/dist/css/bootstrap-theme.css [32m200 [0m1.771 ms - -[0m
+
+2018-07-12T13:17:17.622Z - info: [0mGET /lib/bootstrap/dist/css/bootstrap.css [32m200 [0m4.101 ms - -[0m
+
+2018-07-12T13:17:17.651Z - info: [0mGET /lib/angular-ui-notification/dist/angular-ui-notification.css [32m200 [0m1.037 ms - -[0m
+
+2018-07-12T13:17:17.658Z - info: [0mGET /modules/chat/client/css/chat.css [32m200 [0m1.667 ms - 267[0m
+
+2018-07-12T13:17:17.662Z - info: [0mGET /modules/core/client/css/core.css [32m200 [0m1.251 ms - 758[0m
+
+2018-07-12T13:17:17.663Z - info: [0mGET /modules/users/client/css/users.css [32m200 [0m3.596 ms - 538[0m
+
+2018-07-12T13:17:17.686Z - info: [0mGET /lib/angular-animate/angular-animate.js [32m200 [0m1.086 ms - -[0m
+
+2018-07-12T13:17:17.717Z - info: [0mGET /lib/angular-bootstrap/ui-bootstrap-tpls.js [32m200 [0m0.978 ms - -[0m
+
+2018-07-12T13:17:17.730Z - info: [0mGET /lib/ng-file-upload/ng-file-upload.js [32m200 [0m1.744 ms - -[0m
+
+2018-07-12T13:17:17.736Z - info: [0mGET /lib/angular-messages/angular-messages.js [32m200 [0m0.995 ms - -[0m
+
+2018-07-12T13:17:17.748Z - info: [0mGET /lib/angular-mocks/angular-mocks.js [32m200 [0m1.891 ms - -[0m
+
+2018-07-12T13:17:17.754Z - info: [0mGET /lib/angular-resource/angular-resource.js [32m200 [0m0.920 ms - -[0m
+
+2018-07-12T13:17:17.758Z - info: [0mGET /lib/angular-ui-notification/dist/angular-ui-notification.js [32m200 [0m1.009 ms - -[0m
+
+2018-07-12T13:17:17.778Z - info: [0mGET /lib/angular-ui-router/release/angular-ui-router.js [32m200 [0m0.901 ms - -[0m
+
+2018-07-12T13:17:17.781Z - info: [0mGET /lib/owasp-password-strength-test/owasp-password-strength-test.js [32m200 [0m0.981 ms - -[0m
+
+2018-07-12T13:17:17.785Z - info: [0mGET /modules/core/client/app/config.js [32m200 [0m1.147 ms - -[0m
+
+2018-07-12T13:17:17.788Z - info: [0mGET /modules/core/client/app/init.js [32m200 [0m1.087 ms - -[0m
+
+2018-07-12T13:17:17.793Z - info: [0mGET /modules/articles/client/articles.client.module.js [32m200 [0m2.957 ms - 480[0m
+
+2018-07-12T13:17:17.796Z - info: [0mGET /modules/chat/client/chat.client.module.js [32m200 [0m1.272 ms - 178[0m
+
+2018-07-12T13:17:17.801Z - info: [0mGET /modules/core/client/core.client.module.js [32m200 [0m1.473 ms - 259[0m
+
+2018-07-12T13:17:17.802Z - info: [0mGET /modules/users/client/users.client.module.js [32m200 [0m3.600 ms - 395[0m
+
+2018-07-12T13:17:17.806Z - info: [0mGET /modules/articles/client/config/articles-admin.client.config.js [32m200 [0m1.603 ms - 361[0m
+
+2018-07-12T13:17:17.810Z - info: [0mGET /modules/articles/client/config/articles-admin.client.routes.js [32m200 [0m0.979 ms - -[0m
+
+2018-07-12T13:17:17.812Z - info: [0mGET /lib/angular/angular.js [32m200 [0m1.255 ms - -[0m
+
+2018-07-12T13:17:17.815Z - info: [0mGET /modules/articles/client/config/articles.client.menus.js [32m200 [0m6.141 ms - 520[0m
+
+2018-07-12T13:17:17.818Z - info: [0mGET /modules/articles/client/config/articles.client.routes.js [32m200 [0m5.158 ms - -[0m
+
+2018-07-12T13:17:17.820Z - info: [0mGET /modules/articles/client/controllers/admin/article.client.controller.js [32m200 [0m3.550 ms - -[0m
+
+2018-07-12T13:17:17.822Z - info: [0mGET /modules/articles/client/controllers/admin/list-articles.client.controller.js [32m200 [0m5.034 ms - 361[0m
+
+2018-07-12T13:17:17.825Z - info: [0mGET /modules/articles/client/controllers/articles.client.controller.js [32m200 [0m5.129 ms - 385[0m
+
+2018-07-12T13:17:17.827Z - info: [0mGET /modules/articles/client/controllers/list-articles.client.controller.js [32m200 [0m2.920 ms - 332[0m
+
+2018-07-12T13:17:17.830Z - info: [0mGET /modules/articles/client/services/articles.client.service.js [32m200 [0m4.021 ms - -[0m
+
+2018-07-12T13:17:17.833Z - info: [0mGET /modules/chat/client/config/chat.client.menus.js [32m200 [0m5.324 ms - 309[0m
+
+2018-07-12T13:17:17.835Z - info: [0mGET /modules/chat/client/config/chat.client.routes.js [32m200 [0m5.449 ms - 518[0m
+
+2018-07-12T13:17:17.837Z - info: [0mGET /modules/core/client/config/core-admin.client.menus.js [32m200 [0m2.617 ms - 336[0m
+
+2018-07-12T13:17:17.839Z - info: [0mGET /modules/chat/client/controllers/chat.client.controller.js [32m200 [0m4.589 ms - -[0m
+
+2018-07-12T13:17:17.842Z - info: [0mGET /modules/core/client/config/core-admin.client.routes.js [32m200 [0m5.846 ms - 404[0m
+
+2018-07-12T13:17:17.844Z - info: [0mGET /modules/core/client/config/core.client.menus.js [32m200 [0m3.355 ms - 947[0m
+
+2018-07-12T13:17:17.846Z - info: [0mGET /modules/core/client/config/core.client.route-filter.js [32m200 [0m3.315 ms - -[0m
+
+2018-07-12T13:17:17.849Z - info: [0mGET /modules/core/client/config/core.client.routes.js [32m200 [0m4.831 ms - -[0m
+
+2018-07-12T13:17:17.851Z - info: [0mGET /modules/core/client/controllers/error.client.controller.js [32m200 [0m3.184 ms - 397[0m
+
+2018-07-12T13:17:17.852Z - info: [0mGET /modules/core/client/controllers/header.client.controller.js [32m200 [0m3.564 ms - 687[0m
+
+2018-07-12T13:17:17.855Z - info: [0mGET /modules/core/client/controllers/home.client.controller.js [32m200 [0m2.965 ms - 184[0m
+
+2018-07-12T13:17:17.858Z - info: [0mGET /modules/core/client/directives/auto-focus.client.directive.js [32m200 [0m3.346 ms - 712[0m
+
+2018-07-12T13:17:17.859Z - info: [0mGET /modules/core/client/directives/page-title.client.directive.js [32m200 [0m5.226 ms - 873[0m
+
+2018-07-12T13:17:17.863Z - info: [0mGET /modules/core/client/directives/show-errors.client.directive.js [32m200 [0m4.706 ms - -[0m
+
+2018-07-12T13:17:17.865Z - info: [0mGET /modules/core/client/services/interceptors/auth-interceptor.client.service.js [32m200 [0m1.416 ms - -[0m
+
+2018-07-12T13:17:17.867Z - info: [0mGET /modules/core/client/services/menu.client.service.js [32m200 [0m1.255 ms - -[0m
+
+2018-07-12T13:17:17.871Z - info: [0mGET /modules/users/client/config/users-admin.client.menus.js [32m200 [0m1.930 ms - 347[0m
+
+2018-07-12T13:17:17.873Z - info: [0mGET /modules/core/client/services/socket.io.client.service.js [32m200 [0m5.361 ms - -[0m
+
+2018-07-12T13:17:17.876Z - info: [0mGET /modules/users/client/config/users-admin.client.routes.js [32m200 [0m3.987 ms - -[0m
+
+2018-07-12T13:17:17.878Z - info: [0mGET /modules/users/client/config/users.client.routes.js [32m200 [0m3.016 ms - -[0m
+
+2018-07-12T13:17:17.880Z - info: [0mGET /modules/users/client/controllers/admin/list-users.client.controller.js [32m200 [0m3.039 ms - -[0m
+
+2018-07-12T13:17:17.883Z - info: [0mGET /modules/users/client/controllers/admin/user.client.controller.js [32m200 [0m2.828 ms - -[0m
+
+2018-07-12T13:17:17.886Z - info: [0mGET /modules/users/client/controllers/authentication.client.controller.js [32m200 [0m5.353 ms - -[0m
+
+2018-07-12T13:17:17.888Z - info: [0mGET /modules/users/client/controllers/password.client.controller.js [32m200 [0m3.823 ms - -[0m
+
+2018-07-12T13:17:17.890Z - info: [0mGET /modules/users/client/controllers/settings/change-password.client.controller.js [32m200 [0m2.658 ms - -[0m
+
+2018-07-12T13:17:17.893Z - info: [0mGET /modules/users/client/controllers/settings/change-profile-picture.client.controller.js [32m200 [0m2.876 ms - -[0m
+
+2018-07-12T13:17:17.897Z - info: [0mGET /modules/users/client/controllers/settings/edit-profile.client.controller.js [32m200 [0m2.807 ms - -[0m
+
+2018-07-12T13:17:17.899Z - info: [0mGET /modules/users/client/controllers/settings/manage-social-accounts.client.controller.js [32m200 [0m3.848 ms - -[0m
+
+2018-07-12T13:17:17.901Z - info: [0mGET /modules/users/client/controllers/settings/settings.client.controller.js [32m200 [0m6.914 ms - 321[0m
+
+2018-07-12T13:17:17.904Z - info: [0mGET /modules/users/client/directives/password-verify.client.directive.js [32m200 [0m3.095 ms - 858[0m
+
+2018-07-12T13:17:17.906Z - info: [0mGET /modules/users/client/directives/password-validator.client.directive.js [32m200 [0m5.112 ms - -[0m
+
+2018-07-12T13:17:17.907Z - info: [0mGET /modules/users/client/directives/users.client.directive.js [32m200 [0m4.364 ms - 531[0m
+
+2018-07-12T13:17:17.910Z - info: [0mGET /modules/users/client/services/authentication.client.service.js [32m200 [0m3.193 ms - 343[0m
+
+2018-07-12T13:17:17.911Z - info: [0mGET /modules/users/client/services/password-validator.client.service.js [32m200 [0m4.302 ms - 892[0m
+
+2018-07-12T13:17:17.913Z - info: [0mGET /modules/users/client/services/users.client.service.js [32m200 [0m3.033 ms - -[0m
+
+2018-07-12T13:17:17.977Z - info: [0mGET /modules/core/client/views/header.client.view.html [32m200 [0m1.957 ms - -[0m
+
+2018-07-12T13:17:17.978Z - info: [0mGET /modules/core/client/views/home.client.view.html [32m200 [0m3.155 ms - -[0m
+
+2018-07-12T13:17:18.042Z - info: [0mGET /modules/core/client/img/brand/logo.png [32m200 [0m2.164 ms - 14055[0m
+
+2018-07-12T13:17:18.069Z - info: [0mGET /modules/core/client/img/brand/favicon.ico [32m200 [0m1.060 ms - 32038[0m
+
+2018-07-12T13:26:11.529Z - info: [0mGET /modules/users/client/views/authentication/authentication.client.view.html [32m200 [0m3.867 ms - -[0m
+
+2018-07-12T13:26:11.539Z - info: [0mGET /modules/users/client/views/authentication/signup.client.view.html [32m200 [0m3.419 ms - -[0m
+
+2018-07-12T13:26:11.609Z - info: [0mGET /modules/users/client/img/buttons/facebook.png [32m200 [0m1.239 ms - 1360[0m
+
+2018-07-12T13:26:11.613Z - info: [0mGET /modules/users/client/img/buttons/twitter.png [32m200 [0m1.208 ms - 2379[0m
+
+2018-07-12T13:26:11.616Z - info: [0mGET /modules/users/client/img/buttons/google.png [32m200 [0m1.291 ms - 4458[0m
+
+2018-07-12T13:26:11.620Z - info: [0mGET /modules/users/client/img/buttons/linkedin.png [32m200 [0m2.442 ms - 1829[0m
+
+2018-07-12T13:26:11.625Z - info: [0mGET /modules/users/client/img/buttons/github.png [32m200 [0m1.463 ms - 1861[0m
+
+2018-07-12T13:26:11.630Z - info: [0mGET /modules/users/client/img/buttons/paypal.png [32m200 [0m1.489 ms - 5925[0m
+
+2018-07-12T13:26:39.273Z - info: [0mPOST /api/auth/signup [32m200 [0m71.683 ms - 309[0m
+
+2018-07-12T13:26:39.297Z - info: [0mGET /lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 [32m200 [0m6.317 ms - -[0m
+
+2018-07-12T13:26:39.302Z - info: [0mGET /modules/core/client/img/brand/logo.png [36m304 [0m1.297 ms - -[0m
+
+2018-07-12T13:26:39.306Z - info: [0mGET /modules/users/client/img/profile/default.png [32m200 [0m1.515 ms - 65838[0m
+
+2018-07-12T13:27:00.630Z - info: [0mGET /modules/articles/client/views/admin/list-articles.client.view.html [32m200 [0m2.102 ms - -[0m
+
+2018-07-12T13:27:00.663Z - info: [0mGET /api/articles [32m200 [0m15.956 ms - 2[0m
+
+2018-07-12T13:27:08.584Z - info: [0mGET /modules/articles/client/views/admin/form-article.client.view.html [32m200 [0m2.141 ms - -[0m
+
+2018-07-12T13:27:43.930Z - info: [0mPOST /api/articles [32m200 [0m24.365 ms - 506[0m
+
+2018-07-12T13:27:43.948Z - info: [0mGET /api/articles [32m200 [0m10.449 ms - 266[0m
+
+2018-07-12T13:27:47.983Z - info: [0mGET /modules/articles/client/views/list-articles.client.view.html [32m200 [0m1.919 ms - 692[0m
+
+2018-07-12T13:27:48.000Z - info: [0mGET /api/articles [36m304 [0m8.400 ms - -[0m
+
+2018-07-12T13:28:00.100Z - info: [0mGET /api/articles [36m304 [0m4.553 ms - -[0m
+
+2018-07-12T13:28:06.090Z - info: [0mGET /api/articles/5b47574fd5f5b803ec1241ec [32m200 [0m9.421 ms - 290[0m
+
+2018-07-12T13:28:06.095Z - info: [0mGET /modules/articles/client/views/view-article.client.view.html [32m200 [0m2.112 ms - 458[0m
+
+2018-07-12T13:28:09.838Z - info: [0mGET /api/articles [36m304 [0m10.637 ms - -[0m
+
+2018-07-12T13:28:10.984Z - info: [0mGET /api/articles/5b47574fd5f5b803ec1241ec [36m304 [0m7.800 ms - -[0m
+
+2018-07-12T13:32:01.202Z - info: [0mGET /api/articles [36m304 [0m4.462 ms - -[0m
+
+2018-07-12T13:34:11.403Z - info: [0mGET / [32m200 [0m43.753 ms - -[0m
+
+2018-07-12T13:34:11.429Z - info: [0mGET /modules/chat/client/css/chat.css [36m304 [0m1.851 ms - -[0m
+
+2018-07-12T13:34:11.436Z - info: [0mGET /modules/core/client/css/core.css [36m304 [0m1.788 ms - -[0m
+
+2018-07-12T13:34:11.437Z - info: [0mGET /modules/users/client/css/users.css [36m304 [0m3.163 ms - -[0m
+
+2018-07-12T13:34:11.442Z - info: [0mGET /modules/core/client/app/config.js [36m304 [0m1.388 ms - -[0m
+
+2018-07-12T13:34:11.442Z - info: [0mGET /modules/core/client/app/init.js [36m304 [0m2.098 ms - -[0m
+
+2018-07-12T13:34:11.443Z - info: [0mGET /modules/articles/client/articles.client.module.js [36m304 [0m2.648 ms - -[0m
+
+2018-07-12T13:34:11.450Z - info: [0mGET /modules/chat/client/chat.client.module.js [36m304 [0m1.331 ms - -[0m
+
+2018-07-12T13:34:11.451Z - info: [0mGET /modules/core/client/core.client.module.js [36m304 [0m2.192 ms - -[0m
+
+2018-07-12T13:34:11.452Z - info: [0mGET /modules/users/client/users.client.module.js [36m304 [0m2.961 ms - -[0m
+
+2018-07-12T13:34:11.456Z - info: [0mGET /modules/articles/client/config/articles-admin.client.config.js [36m304 [0m2.074 ms - -[0m
+
+2018-07-12T13:34:11.457Z - info: [0mGET /modules/articles/client/config/articles-admin.client.routes.js [36m304 [0m3.039 ms - -[0m
+
+2018-07-12T13:34:11.460Z - info: [0mGET /modules/articles/client/config/articles.client.menus.js [36m304 [0m5.046 ms - -[0m
+
+2018-07-12T13:34:11.461Z - info: [0mGET /modules/articles/client/config/articles.client.routes.js [36m304 [0m6.158 ms - -[0m
+
+2018-07-12T13:34:11.464Z - info: [0mGET /modules/articles/client/controllers/admin/article.client.controller.js [36m304 [0m4.567 ms - -[0m
+
+2018-07-12T13:34:11.466Z - info: [0mGET /modules/articles/client/controllers/admin/list-articles.client.controller.js [36m304 [0m7.322 ms - -[0m
+
+2018-07-12T13:34:11.467Z - info: [0mGET /modules/articles/client/controllers/articles.client.controller.js [36m304 [0m4.898 ms - -[0m
+
+2018-07-12T13:34:11.469Z - info: [0mGET /modules/articles/client/controllers/list-articles.client.controller.js [36m304 [0m5.706 ms - -[0m
+
+2018-07-12T13:34:11.470Z - info: [0mGET /modules/articles/client/services/articles.client.service.js [36m304 [0m4.463 ms - -[0m
+
+2018-07-12T13:34:11.470Z - info: [0mGET /modules/chat/client/config/chat.client.menus.js [36m304 [0m4.869 ms - -[0m
+
+2018-07-12T13:34:11.476Z - info: [0mGET /modules/chat/client/config/chat.client.routes.js [36m304 [0m1.923 ms - -[0m
+
+2018-07-12T13:34:11.479Z - info: [0mGET /modules/chat/client/controllers/chat.client.controller.js [36m304 [0m2.223 ms - -[0m
+
+2018-07-12T13:34:11.481Z - info: [0mGET /modules/core/client/config/core-admin.client.menus.js [36m304 [0m4.412 ms - -[0m
+
+2018-07-12T13:34:11.482Z - info: [0mGET /modules/core/client/config/core-admin.client.routes.js [36m304 [0m6.032 ms - -[0m
+
+2018-07-12T13:34:11.484Z - info: [0mGET /modules/core/client/config/core.client.menus.js [36m304 [0m7.560 ms - -[0m
+
+2018-07-12T13:34:11.486Z - info: [0mGET /modules/core/client/config/core.client.route-filter.js [36m304 [0m8.625 ms - -[0m
+
+2018-07-12T13:34:11.487Z - info: [0mGET /modules/core/client/config/core.client.routes.js [36m304 [0m4.210 ms - -[0m
+
+2018-07-12T13:34:11.490Z - info: [0mGET /modules/core/client/controllers/error.client.controller.js [36m304 [0m4.986 ms - -[0m
+
+2018-07-12T13:34:11.492Z - info: [0mGET /modules/core/client/controllers/header.client.controller.js [36m304 [0m7.590 ms - -[0m
+
+2018-07-12T13:34:11.495Z - info: [0mGET /modules/core/client/controllers/home.client.controller.js [36m304 [0m7.811 ms - -[0m
+
+2018-07-12T13:34:11.497Z - info: [0mGET /modules/core/client/directives/auto-focus.client.directive.js [36m304 [0m5.889 ms - -[0m
+
+2018-07-12T13:34:11.500Z - info: [0mGET /modules/core/client/directives/page-title.client.directive.js [36m304 [0m8.334 ms - -[0m
+
+2018-07-12T13:34:11.502Z - info: [0mGET /modules/core/client/directives/show-errors.client.directive.js [36m304 [0m8.049 ms - -[0m
+
+2018-07-12T13:34:11.505Z - info: [0mGET /modules/core/client/services/interceptors/auth-interceptor.client.service.js [36m304 [0m10.173 ms - -[0m
+
+2018-07-12T13:34:11.510Z - info: [0mGET /modules/core/client/services/menu.client.service.js [36m304 [0m9.667 ms - -[0m
+
+2018-07-12T13:34:11.513Z - info: [0mGET /modules/core/client/services/socket.io.client.service.js [36m304 [0m8.302 ms - -[0m
+
+2018-07-12T13:34:11.518Z - info: [0mGET /modules/users/client/config/users-admin.client.menus.js [36m304 [0m12.184 ms - -[0m
+
+2018-07-12T13:34:11.519Z - info: [0mGET /modules/users/client/config/users-admin.client.routes.js [36m304 [0m11.733 ms - -[0m
+
+2018-07-12T13:34:11.521Z - info: [0mGET /modules/users/client/config/users.client.routes.js [36m304 [0m13.474 ms - -[0m
+
+2018-07-12T13:34:11.522Z - info: [0mGET /modules/users/client/controllers/admin/list-users.client.controller.js [36m304 [0m6.550 ms - -[0m
+
+2018-07-12T13:34:11.525Z - info: [0mGET /modules/users/client/controllers/admin/user.client.controller.js [36m304 [0m3.526 ms - -[0m
+
+2018-07-12T13:34:11.528Z - info: [0mGET /modules/users/client/controllers/authentication.client.controller.js [36m304 [0m6.837 ms - -[0m
+
+2018-07-12T13:34:11.531Z - info: [0mGET /modules/users/client/controllers/password.client.controller.js [36m304 [0m6.318 ms - -[0m
+
+2018-07-12T13:34:11.532Z - info: [0mGET /modules/users/client/controllers/settings/change-password.client.controller.js [36m304 [0m8.281 ms - -[0m
+
+2018-07-12T13:34:11.533Z - info: [0mGET /modules/users/client/controllers/settings/change-profile-picture.client.controller.js [36m304 [0m7.168 ms - -[0m
+
+2018-07-12T13:34:11.534Z - info: [0mGET /modules/users/client/controllers/settings/edit-profile.client.controller.js [36m304 [0m7.955 ms - -[0m
+
+2018-07-12T13:34:11.536Z - info: [0mGET /modules/users/client/controllers/settings/manage-social-accounts.client.controller.js [36m304 [0m2.712 ms - -[0m
+
+2018-07-12T13:34:11.538Z - info: [0mGET /modules/users/client/controllers/settings/settings.client.controller.js [36m304 [0m3.241 ms - -[0m
+
+2018-07-12T13:34:11.541Z - info: [0mGET /modules/users/client/directives/password-validator.client.directive.js [36m304 [0m4.740 ms - -[0m
+
+2018-07-12T13:34:11.544Z - info: [0mGET /modules/users/client/directives/password-verify.client.directive.js [36m304 [0m8.561 ms - -[0m
+
+2018-07-12T13:34:11.546Z - info: [0mGET /modules/users/client/directives/users.client.directive.js [36m304 [0m10.386 ms - -[0m
+
+2018-07-12T13:34:11.547Z - info: [0mGET /modules/users/client/services/authentication.client.service.js [36m304 [0m4.748 ms - -[0m
+
+2018-07-12T13:34:11.549Z - info: [0mGET /modules/users/client/services/password-validator.client.service.js [36m304 [0m3.483 ms - -[0m
+
+2018-07-12T13:34:11.552Z - info: [0mGET /modules/users/client/services/users.client.service.js [36m304 [0m4.949 ms - -[0m
+
+2018-07-12T13:34:11.652Z - info: [0mGET /modules/core/client/views/header.client.view.html [36m304 [0m0.585 ms - -[0m
+
+2018-07-12T13:34:11.653Z - info: [0mGET /modules/core/client/views/home.client.view.html [36m304 [0m0.464 ms - -[0m
+
+2018-07-12T13:34:11.710Z - info: [0mGET /modules/users/client/img/profile/default.png [36m304 [0m0.637 ms - -[0m
+
+2018-07-12T13:34:11.717Z - info: [0mGET /modules/core/client/img/brand/logo.png [36m304 [0m0.728 ms - -[0m
+
+2018-07-12T13:34:15.168Z - info: [0mGET /modules/articles/client/views/list-articles.client.view.html [36m304 [0m0.980 ms - -[0m
+
+2018-07-12T13:34:15.198Z - info: [0mGET /api/articles [36m304 [0m18.774 ms - -[0m
+
+2018-07-12T13:34:44.800Z - info: [0mGET /api/articles/5b47574fd5f5b803ec1241ec [36m304 [0m11.443 ms - -[0m
+
+2018-07-12T13:34:44.807Z - info: [0mGET /modules/articles/client/views/view-article.client.view.html [36m304 [0m1.192 ms - -[0m
+
+2018-07-12T14:44:28.196Z - info: 127.0.0.1 - - [12/Jul/2018:14:44:28 +0000] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-12T14:44:28.213Z - info: 127.0.0.1 - - [12/Jul/2018:14:44:28 +0000] "GET /lib/angular-ui-notification/dist/angular-ui-notification.min.css HTTP/1.1" 200 - "http://localhost:8443/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-12T14:44:28.219Z - info: 127.0.0.1 - - [12/Jul/2018:14:44:28 +0000] "GET /lib/bootstrap/dist/css/bootstrap-theme.min.css HTTP/1.1" 200 - "http://localhost:8443/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-12T14:44:28.223Z - info: 127.0.0.1 - - [12/Jul/2018:14:44:28 +0000] "GET /lib/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 - "http://localhost:8443/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-12T14:44:28.224Z - info: 127.0.0.1 - - [12/Jul/2018:14:44:28 +0000] "GET /dist/application-bd05781c76.min.css HTTP/1.1" 200 - "http://localhost:8443/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-12T14:44:28.238Z - info: 127.0.0.1 - - [12/Jul/2018:14:44:28 +0000] "GET /lib/angular/angular.min.js HTTP/1.1" 200 - "http://localhost:8443/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-12T14:44:28.240Z - info: 127.0.0.1 - - [12/Jul/2018:14:44:28 +0000] "GET /lib/angular-animate/angular-animate.min.js HTTP/1.1" 200 - "http://localhost:8443/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-12T14:44:28.243Z - info: 127.0.0.1 - - [12/Jul/2018:14:44:28 +0000] "GET /lib/angular-messages/angular-messages.min.js HTTP/1.1" 200 - "http://localhost:8443/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-12T14:44:28.246Z - info: 127.0.0.1 - - [12/Jul/2018:14:44:28 +0000] "GET /lib/angular-bootstrap/ui-bootstrap-tpls.min.js HTTP/1.1" 200 - "http://localhost:8443/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-12T14:44:28.249Z - info: 127.0.0.1 - - [12/Jul/2018:14:44:28 +0000] "GET /lib/angular-resource/angular-resource.min.js HTTP/1.1" 200 - "http://localhost:8443/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-12T14:44:28.253Z - info: 127.0.0.1 - - [12/Jul/2018:14:44:28 +0000] "GET /lib/angular-ui-notification/dist/angular-ui-notification.min.js HTTP/1.1" 200 - "http://localhost:8443/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-12T14:44:28.255Z - info: 127.0.0.1 - - [12/Jul/2018:14:44:28 +0000] "GET /lib/angular-mocks/angular-mocks.js HTTP/1.1" 200 - "http://localhost:8443/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-12T14:44:28.257Z - info: 127.0.0.1 - - [12/Jul/2018:14:44:28 +0000] "GET /lib/angular-ui-router/release/angular-ui-router.min.js HTTP/1.1" 200 - "http://localhost:8443/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-12T14:44:28.261Z - info: 127.0.0.1 - - [12/Jul/2018:14:44:28 +0000] "GET /lib/owasp-password-strength-test/owasp-password-strength-test.js HTTP/1.1" 200 - "http://localhost:8443/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-12T14:44:28.264Z - info: 127.0.0.1 - - [12/Jul/2018:14:44:28 +0000] "GET /lib/ng-file-upload/ng-file-upload.min.js HTTP/1.1" 200 - "http://localhost:8443/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-12T14:44:28.266Z - info: 127.0.0.1 - - [12/Jul/2018:14:44:28 +0000] "GET /dist/application-0b09b37229.min.js HTTP/1.1" 200 - "http://localhost:8443/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-12T14:44:28.361Z - info: 127.0.0.1 - - [12/Jul/2018:14:44:28 +0000] "GET /modules/core/client/views/header.client.view.html HTTP/1.1" 200 - "http://localhost:8443/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-12T14:44:28.363Z - info: 127.0.0.1 - - [12/Jul/2018:14:44:28 +0000] "GET /modules/core/client/views/home.client.view.html HTTP/1.1" 200 - "http://localhost:8443/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-12T14:44:28.423Z - info: 127.0.0.1 - - [12/Jul/2018:14:44:28 +0000] "GET /modules/core/client/img/brand/logo.png HTTP/1.1" 200 14055 "http://localhost:8443/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-12T14:44:28.448Z - info: 127.0.0.1 - - [12/Jul/2018:14:44:28 +0000] "GET /modules/core/client/img/brand/favicon.ico HTTP/1.1" 200 32038 "http://localhost:8443/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-12T14:54:03.278Z - error: uncaughtException: Ran out of retries trying to reconnect to "myapp-cosmosdb-dev.documents.azure.com:10250". Try setting `server.reconnectTries` and `server.reconnectInterval` to something higher. date=Thu Jul 12 2018 17:54:03 GMT+0300 (Israel Daylight Time), pid=15608, uid=null, gid=null, cwd=C:\Users\yansh.YANSH-LAP\meanjs, execPath=C:\Program Files\nodejs\node.exe, version=v10.6.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\yansh.YANSH-LAP\meanjs\server.js], rss=55767040, heapTotal=35819520, heapUsed=30953864, external=19790232, loadavg=[0, 0, 0], uptime=610897
+DisconnectedError: Ran out of retries trying to reconnect to "myapp-cosmosdb-dev.documents.azure.com:10250". Try setting `server.reconnectTries` and `server.reconnectInterval` to something higher.
+    at new DisconnectedError (C:\Users\yansh.YANSH-LAP\meanjs\node_modules\mongoose\lib\error\disconnected.js:21:11)
+    at Server.<anonymous> (C:\Users\yansh.YANSH-LAP\meanjs\node_modules\mongoose\lib\drivers\node-mongodb-native\connection.js:64:31)
+    at Server.emit (events.js:187:15)
+    at Pool.<anonymous> (C:\Users\yansh.YANSH-LAP\meanjs\node_modules\mongoose\node_modules\mongodb-core\lib\topologies\server.js:319:16)
+    at Pool.emit (events.js:182:13)
+    at Connection.<anonymous> (C:\Users\yansh.YANSH-LAP\meanjs\node_modules\mongoose\node_modules\mongodb-core\lib\connection\pool.js:317:16)
+    at Connection.emit (events.js:182:13)
+    at TLSSocket.<anonymous> (C:\Users\yansh.YANSH-LAP\meanjs\node_modules\mongoose\node_modules\mongodb-core\lib\connection\connection.js:177:49)
+    at Object.onceWrapper (events.js:273:13)
+    at TLSSocket.emit (events.js:182:13)
+    at TLSSocket._emitTLSError (_tls_wrap.js:603:10)
+    at Socket.wrap.on (_tls_wrap.js:546:36)
+    at Socket.emit (events.js:182:13)
+    at emitErrorNT (internal/streams/destroy.js:82:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:50:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2018-07-13T11:09:58.478Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:58 +0000] "GET / HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:58.491Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:58 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:58.497Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:58 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:58.515Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:58 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:58.539Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:58 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:58.558Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:58 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:58.581Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:58 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:58.603Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:58 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:58.625Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:58 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:58.664Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:58 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:58.686Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:58 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:58.706Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:58 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:58.733Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:58 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:58.762Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:58 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:58.770Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:58 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:58.791Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:58 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:58.812Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:58 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:58.849Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:58 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:58.870Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:58 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:58.895Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:58 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:58.997Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:58 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:59.014Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:59 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:59.028Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:59 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:59.035Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:59 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:59.046Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:59 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:59.052Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:59 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:59.064Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:59 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:59.081Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:59 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:59.110Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:59 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:59.123Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:59 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:59.147Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:59 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:59.168Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:59 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:59.193Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:59 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:59.214Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:59 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:59.239Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:59 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:59.259Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:59 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:59.285Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:59 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:59.310Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:59 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:59.352Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:59 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:09:59.381Z - info: 127.0.0.1 - - [13/Jul/2018:11:09:59 +0000] "GET /server-error HTTP/1.1" 302 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:10:36.847Z - info: 127.0.0.1 - - [13/Jul/2018:11:10:36 +0000] "GET /server-error HTTP/1.1" - - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:10:37.142Z - info: 127.0.0.1 - - [13/Jul/2018:11:10:37 +0000] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:10:37.352Z - info: 127.0.0.1 - - [13/Jul/2018:11:10:37 +0000] "GET /modules/core/client/views/header.client.view.html HTTP/1.1" 304 - "http://localhost:8443/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:10:37.356Z - info: 127.0.0.1 - - [13/Jul/2018:11:10:37 +0000] "GET /modules/core/client/views/home.client.view.html HTTP/1.1" 304 - "http://localhost:8443/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:10:37.410Z - info: 127.0.0.1 - - [13/Jul/2018:11:10:37 +0000] "GET /modules/core/client/img/brand/favicon.ico HTTP/1.1" 200 32038 "http://localhost:8443/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:10:37.419Z - info: 127.0.0.1 - - [13/Jul/2018:11:10:37 +0000] "GET /modules/core/client/img/brand/logo.png HTTP/1.1" 304 - "http://localhost:8443/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:13:20.771Z - info: 127.0.0.1 - - [13/Jul/2018:11:13:20 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:13:20.981Z - info: 127.0.0.1 - - [13/Jul/2018:11:13:20 +0000] "GET /modules/core/client/views/header.client.view.html HTTP/1.1" 304 - "http://localhost:8443/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:13:20.984Z - info: 127.0.0.1 - - [13/Jul/2018:11:13:20 +0000] "GET /modules/core/client/views/home.client.view.html HTTP/1.1" 304 - "http://localhost:8443/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
+2018-07-13T11:13:21.054Z - info: 127.0.0.1 - - [13/Jul/2018:11:13:21 +0000] "GET /modules/core/client/img/brand/logo.png HTTP/1.1" 304 - "http://localhost:8443/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+
